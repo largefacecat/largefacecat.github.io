@@ -9,13 +9,13 @@
 title: 
 brief-intro: 荒原
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tobethelight.github.io" # the base hostname & protocol for your site
+url: "https://largefacecat.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  toBeTheLight
-email: yl1991web@126.com
+github_username:  largefacecat
+email: 975512030@qq.com
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
